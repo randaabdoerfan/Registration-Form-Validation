@@ -6,7 +6,7 @@ It includes **floating labels**, **field validation**, **icons**, and **success 
 ---
 ## Preview
 
-![Registration Form](assests/formScreenShoot.jpg)
+![Registration Form](assets/formScreenShoot.jpg)
 
 ## Features
 
